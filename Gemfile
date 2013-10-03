@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
  # rails-bootstrap
+gem 'activerecord-tableless'
+gem 'google_drive'
 gem 'bootstrap-sass'
 gem 'figaro'
 gem 'high_voltage'
